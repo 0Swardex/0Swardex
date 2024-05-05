@@ -8,7 +8,7 @@
 </div>
 <div align="left" id="about-me">
   <h3>About Me :</h3>
-  <p>I'm a young Developer from somewhere 💻</p>
+  <p>I'm a <b>young Developer</b> from somewhere 💻</p>
   <ul>
     <li>
       <p>I'm trying to learn a lot of stuff to work in <b>Cybersecurity</b> 🔐.</p>
