@@ -1,7 +1,24 @@
 <div align="center" id="header">
-  <h1>Welcome to my profile !</h1>
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <h1>👋 Welcome to my profile !</h1>
+  <img src="https://komarev.com/ghpvc/?username=0Swardex&style=for-the-badge&color=000000" alt="views"/>
+  <img/>
+  <img src="https://img.shields.io/github/stars/0Swardex?style=for-the-badge&color=black" alt="Stars"/>
+  <img/>
+  <img src="https://img.shields.io/github/followers/0Swardex?style=for-the-badge&color=black" alt="Followers"/>
 </div>
-<div align="left" id="content">
-  <h3>I'm Swardex</h3>
+<div align="left" id="about-me">
+  <h3>📚 About Me :</h3>
+  <p>I'm a young Developer from somewhere 💻</p>
+  <ul>
+    <li>
+      <p>I'm trying to learn a lot to work in <b>Cybersecurity</b> 🔐.</p>
+    </li>
+    <li>
+      <p>I'm the creator of [...] <i>(maybe one day)</i>.</p>
+    </li>
+  </ul>
+</div>
+<div>
+  <h3>Languages and Tools :</h3>
+  
 </div>
