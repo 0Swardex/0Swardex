@@ -28,7 +28,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VsCode" alt="VsCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
-<a href="https://discord.com/user/353093219828891648">
+<a href="https://discord.com/users/353093219828891648">
   <img src="https://lanyard-profile-readme.vercel.app/api/353093219828891648?" align="right"/>
 </a>
 
